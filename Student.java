@@ -19,6 +19,7 @@ public class Student {
     public static void main(String[] args) {
         Student s = new Student("Ravi", "2000-08-15");
         s.displayInfo();
+        System.out.println("--------------------");
     }
 }
 

@@ -19,15 +19,8 @@ public class StudentCourse {
         sc.addCourse("Math", 95);
         sc.addCourse("Science", 90);
         sc.displayCourses();
+        System.out.println("--------------------");
     }
 }
 
 
-git init  
-git status  
-git config --global user.name "Goutamnayak1"
-git config --global user.email "gautamnayak4088607@gmail.com"
-git add index.html
-git commit -m “Saved"
-git remote add origin https://github.com/Goutamnayak1/program_1.git  
-git push -u origin main    
